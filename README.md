@@ -1,4 +1,3 @@
-Sure! Here’s a **complete, professional README.md** tailored to your project and the assignment details, explaining each script, files, and usage clearly:
 
 ---
 
@@ -159,7 +158,7 @@ python telebot.py
 
 ## Contact & Support
 
-For any issues or questions, please contact \[Your Name] at \[Your Email].
+For any issues or questions, please contact Jayanthan P  at jayanthan1944@gmail.com.
 
 ---
 
@@ -167,4 +166,3 @@ For any issues or questions, please contact \[Your Name] at \[Your Email].
 
 ---
 
-If you want, I can help you draft the `.env.example`, `requirements.txt`, or even a sample message template. Would you like that?
